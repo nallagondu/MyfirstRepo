@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is some tex
 
 this sis inew tets textt
+=======
+This is some text
+
+thi s is form conflict branch upfates 
+>>>>>>> ConflictBranch
